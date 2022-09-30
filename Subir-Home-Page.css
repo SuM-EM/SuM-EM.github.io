@@ -513,13 +513,11 @@
   }
 
   .u-section-2 .u-group-1 {
-    margin-top: 40px;
-    margin-left: auto;
-    margin-right: 246px;
+    margin-right: auto;
   }
 
   .u-section-2 .u-btn-1 {
-    margin-top: 27px;
+    margin-top: 67px;
     margin-right: 11px;
   }
 
@@ -533,22 +531,17 @@
     min-height: 1546px;
   }
 
-  .u-section-2 .u-group-1 {
-    margin-top: 0;
-    margin-right: 46px;
-  }
-
   .u-section-2 .u-text-1 {
     font-size: 1.875rem;
   }
 
   .u-section-2 .u-btn-1 {
-    margin-top: 46px;
-    margin-right: 0;
+    margin-top: 57px;
+    margin-right: auto;
   }
 
   .u-section-2 .u-text-3 {
-    margin: 34px 0 60px;
+    margin: 23px 0 60px;
   }
 }.u-section-3 .u-sheet-1 {
   min-height: 2856px;
@@ -838,16 +831,17 @@
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 5371px;
+    min-height: 6146px;
   }
 
   .u-section-3 .u-btn-1 {
-    margin-top: 58px;
-    margin-left: 0;
+    margin-top: 59px;
+    margin-left: auto;
   }
 
   .u-section-3 .u-list-1 {
     width: 340px;
+    margin-top: 26px;
   }
 }.u-section-4 .u-sheet-1 {
   min-height: 552px;
@@ -885,7 +879,17 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 619px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-top: 31px;
+    margin-right: auto;
+  }
+
   .u-section-4 .u-text-1 {
+    margin-top: 5px;
     margin-left: 0;
   }
 }.u-section-5 .u-sheet-1 {
@@ -893,7 +897,7 @@
 }
 
 .u-section-5 .u-text-1 {
-  margin: 23px 0 0;
+  margin: 60px 0 0;
 }
 
 .u-section-5 .u-btn-1 {
@@ -902,7 +906,7 @@
 }
 
 .u-section-5 .u-text-2 {
-  margin: 22px 195px -14px 24px;
+  margin: 22px 195px 23px 23px;
 }
 
 @media (max-width: 1199px) {
@@ -935,6 +939,14 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 1360px;
+  }
+
+  .u-section-5 .u-btn-1 {
+    margin-left: auto;
+  }
+
   .u-section-5 .u-text-2 {
     margin-bottom: 60px;
   }
@@ -973,8 +985,17 @@
 }
 
 @media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 869px;
+  }
+
+  .u-section-6 .u-text-1 {
+    width: auto;
+    margin-top: 81px;
+  }
+
   .u-section-6 .u-btn-1 {
-    margin-top: -821px;
+    margin-top: -842px;
   }
 }
 
@@ -984,6 +1005,7 @@
   }
 
   .u-section-6 .u-btn-1 {
-    margin-top: -1196px;
+    margin-top: -1209px;
+    margin-right: auto;
   }
 }
