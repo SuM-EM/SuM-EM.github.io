@@ -1390,7 +1390,7 @@
 
 @media (max-width: 575px) {
   .u-section-7 .u-sheet-1 {
-    min-height: 257px;
+    min-height: 193px;
   }
 
   .u-section-7 .u-btn-1 {
@@ -1406,6 +1406,7 @@
   .u-section-7 .u-text-2 {
     margin-top: -100px;
     margin-right: 282px;
+    margin-bottom: 60px;
   }
 }.u-section-8 .u-sheet-1 {
   min-height: 152px;
