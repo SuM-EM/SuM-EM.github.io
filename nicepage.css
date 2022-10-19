@@ -38832,7 +38832,15 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 112px;
+  min-height: 46px;
+}
+
+.u-header .u-menu-1 {
+  margin: 0 0 10px auto;
+}
+
+.u-header .u-nav-2 {
+  font-size: 1.25rem;
 }
 
 
