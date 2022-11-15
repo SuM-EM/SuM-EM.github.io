@@ -1,4 +1,4 @@
- .u-section-1 {
+.u-section-1 {
   background-image: none;
 }
 
@@ -411,6 +411,27 @@
     margin-top: 17px;
     margin-bottom: 30px;
   }
+}.u-section-2 .u-sheet-1 {
+  min-height: 709px;
+}
+
+.u-section-2 .u-group-1 {
+  width: 294px;
+  min-height: 415px;
+  height: auto;
+  margin: 10px auto 0 84px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-2 .u-group-2 {
+  min-height: 341px;
+  height: auto;
+  margin-top: 23px;
+  margin-bottom: 0;
+}
 
 .u-section-2 .u-container-layout-2 {
   padding: 0 5px;
