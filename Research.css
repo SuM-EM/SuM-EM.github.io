@@ -1591,6 +1591,12 @@
   margin: 17px 361px 0 389px;
 }
 
+.u-section-9 .u-btn-4 {
+  background-image: none;
+  text-decoration: underline !important;
+  padding: 0;
+}
+
 @media (max-width: 1199px) {
   .u-section-9 .u-btn-1 {
     margin-left: 77px;
