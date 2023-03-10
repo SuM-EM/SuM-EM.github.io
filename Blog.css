@@ -8,7 +8,6 @@
 }
 
 .u-section-1 .u-repeater-1 {
-  grid-auto-columns: 100%;
   grid-template-columns: 100%;
   grid-gap: 10px 10px;
   min-height: 375px;
