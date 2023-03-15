@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /files/IITB-Report1.pdf
+Disallow: /files/UoW-Report.pdf
