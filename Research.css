@@ -931,7 +931,7 @@
 
 .u-section-4 .u-btn-28 {
   background-image: none;
-  border-style: solid solid dotted;
+  border-bottom-style: dotted;
   padding: 0;
 }
 
@@ -973,11 +973,23 @@
 
 .u-section-4 .u-btn-35 {
   background-image: none;
-  border-style: solid solid dotted;
+  border-bottom-style: dotted;
   padding: 0;
 }
 
 .u-section-4 .u-btn-36 {
+  background-image: none;
+  border-style: solid solid dotted;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-37 {
+  background-image: none;
+  border-style: solid solid dotted;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-38 {
   background-image: none;
   border-style: solid solid dotted;
   padding: 0;
@@ -997,18 +1009,6 @@
 .u-section-4 .u-text-8 {
   font-weight: 400;
   margin: 15px 95px 0;
-}
-
-.u-section-4 .u-btn-37 {
-  background-image: none;
-  border-style: solid solid dotted;
-  padding: 0;
-}
-
-.u-section-4 .u-btn-38 {
-  background-image: none;
-  border-style: solid solid dotted;
-  padding: 0;
 }
 
 .u-section-4 .u-btn-39 {
@@ -1035,6 +1035,18 @@
   padding: 0;
 }
 
+.u-section-4 .u-btn-43 {
+  background-image: none;
+  border-style: solid solid dotted;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-44 {
+  background-image: none;
+  border-style: solid solid dotted;
+  padding: 0;
+}
+
 .u-section-4 .u-text-9 {
   font-weight: 400;
   margin: 20px 251px 0 95px;
@@ -1051,18 +1063,6 @@
   margin: 17px 95px 13px;
 }
 
-.u-section-4 .u-btn-43 {
-  background-image: none;
-  border-style: solid solid dotted;
-  padding: 0;
-}
-
-.u-section-4 .u-btn-44 {
-  background-image: none;
-  border-style: solid solid dotted;
-  padding: 0;
-}
-
 .u-section-4 .u-btn-45 {
   background-image: none;
   border-style: solid solid dotted;
@@ -1070,6 +1070,18 @@
 }
 
 .u-section-4 .u-btn-46 {
+  background-image: none;
+  border-style: solid solid dotted;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-47 {
+  background-image: none;
+  border-style: solid solid dotted;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-48 {
   background-image: none;
   border-style: solid solid dotted;
   padding: 0;
