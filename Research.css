@@ -737,6 +737,7 @@
 }
 
 .u-section-4 .u-text-2 {
+  font-weight: normal;
   margin: 13px 95px 0;
 }
 
@@ -1114,7 +1115,6 @@
   }
 
   .u-section-4 .u-text-2 {
-    font-weight: normal;
     width: auto;
     margin-left: 81px;
     margin-right: 81px;
@@ -1689,13 +1689,12 @@
 @media (max-width: 767px) {
   .u-section-9 .u-text-1 {
     margin-right: 0;
-    margin-bottom: 60px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-9 .u-sheet-1 {
-    min-height: 174px;
+    min-height: 155px;
   }
 }.u-section-10 .u-sheet-1 {
   min-height: 22px;
