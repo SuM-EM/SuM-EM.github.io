@@ -4,7 +4,7 @@
 
 .u-section-1 .u-list-1 {
   grid-template-rows: auto;
-  width: 758px;
+  width: 759px;
   margin: 75px auto 49px 0;
 }
 
@@ -12,6 +12,7 @@
   grid-template-columns: 50% 50%;
   min-height: 390px;
   grid-gap: 0px 0px;
+  grid-auto-columns: 50%;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -24,12 +25,12 @@
 
 .u-section-1 .u-image-1 {
   height: 161px;
-  margin-top: 20px;
+  margin-top: 40px;
   margin-bottom: 0;
 }
 
 .u-section-1 .u-text-2 {
-  margin: 20px 0 0;
+  margin: 10px 0 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -37,7 +38,7 @@
   letter-spacing: 1px;
   border-style: solid;
   text-transform: uppercase;
-  margin: 20px auto 0 0;
+  margin: 10px auto 0 0;
   padding: 2px 0;
 }
 
@@ -51,12 +52,12 @@
 
 .u-section-1 .u-image-2 {
   height: 161px;
-  margin-top: 20px;
+  margin-top: 40px;
   margin-bottom: 0;
 }
 
 .u-section-1 .u-text-4 {
-  margin: 20px 0 0;
+  margin: 10px 0 0;
 }
 
 .u-section-1 .u-btn-2 {
@@ -64,7 +65,7 @@
   letter-spacing: 1px;
   border-style: solid;
   text-transform: uppercase;
-  margin: 20px auto 0 0;
+  margin: 10px auto 0 0;
   padding: 2px 0;
 }
 
@@ -82,8 +83,7 @@
   }
 
   .u-section-1 .u-repeater-1 {
-    grid-template-columns: 100%;
-    min-height: 837px;
+    grid-auto-columns: 100%;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -92,10 +92,7 @@
   }
 
   .u-section-1 .u-image-1 {
-    height: 256px;
-    width: 490px;
-    margin-left: auto;
-    margin-right: auto;
+    height: 333px;
   }
 
   .u-section-1 .u-container-layout-2 {
@@ -104,21 +101,22 @@
   }
 
   .u-section-1 .u-image-2 {
-    height: 256px;
-    width: 490px;
-    margin-left: auto;
-    margin-right: auto;
+    height: 333px;
   }
 }
 
 @media (max-width: 767px) {
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+
   .u-section-1 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
   }
 
-  .u-section-1 .u-text-2 {
-    margin-top: 0;
+  .u-section-1 .u-image-1 {
+    height: 262px;
   }
 
   .u-section-1 .u-container-layout-2 {
@@ -126,29 +124,17 @@
     padding-right: 10px;
   }
 
-  .u-section-1 .u-text-4 {
-    margin-top: 0;
+  .u-section-1 .u-image-2 {
+    height: 262px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-image-1 {
-    height: 167px;
-    margin-top: 28px;
-    width: 320px;
-  }
-
-  .u-section-1 .u-text-2 {
-    margin-top: 12px;
+    height: 161px;
   }
 
   .u-section-1 .u-image-2 {
-    height: 167px;
-    margin-top: 28px;
-    width: 320px;
-  }
-
-  .u-section-1 .u-text-4 {
-    margin-top: 12px;
+    height: 161px;
   }
 }
