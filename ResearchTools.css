@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 1054px;
+  min-height: 1803px;
 }
 
 .u-section-1 .u-text-1 {
@@ -18,14 +18,14 @@
 
 .u-section-1 .u-list-1 {
   grid-template-rows: auto auto auto;
-  margin-top: 55px;
-  margin-bottom: 17px;
+  margin-top: 67px;
+  margin-bottom: 5px;
 }
 
 .u-section-1 .u-repeater-1 {
   grid-template-columns: 25% 25% 25% 25%;
-  min-height: 590px;
-  grid-gap: 0px 0px;
+  min-height: 1383px;
+  grid-gap: 0px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -36,12 +36,12 @@
   height: 160px;
   transition-duration: 0.5s;
   width: 160px;
-  margin: 0 auto;
+  margin: 58px auto 0;
 }
 
 .u-section-1 .u-text-3 {
   transition-duration: 0.5s;
-  margin: 11px 13px 0;
+  margin: 18px 13px 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -58,12 +58,12 @@
   height: 160px;
   transition-duration: 0.5s;
   width: 160px;
-  margin: 0 auto;
+  margin: 58px auto 0;
 }
 
 .u-section-1 .u-text-4 {
   transition-duration: 0.5s;
-  margin: 11px 13px 0;
+  margin: 18px 13px 0;
 }
 
 .u-section-1 .u-btn-2 {
@@ -80,12 +80,12 @@
   height: 160px;
   transition-duration: 0.5s;
   width: 160px;
-  margin: 0 auto;
+  margin: 58px auto 0;
 }
 
 .u-section-1 .u-text-5 {
   transition-duration: 0.5s;
-  margin: 11px 13px 0;
+  margin: 18px 13px 0;
 }
 
 .u-section-1 .u-btn-3 {
@@ -102,12 +102,12 @@
   height: 160px;
   transition-duration: 0.5s;
   width: 160px;
-  margin: 0 auto;
+  margin: 58px auto 0;
 }
 
 .u-section-1 .u-text-6 {
   transition-duration: 0.5s;
-  margin: 11px 13px 0;
+  margin: 18px 13px 0;
 }
 
 .u-section-1 .u-btn-4 {
@@ -124,12 +124,12 @@
   height: 160px;
   transition-duration: 0.5s;
   width: 160px;
-  margin: 0 auto;
+  margin: 58px auto 0;
 }
 
 .u-section-1 .u-text-7 {
   transition-duration: 0.5s;
-  margin: 11px 13px 0;
+  margin: 18px 13px 0;
 }
 
 .u-section-1 .u-btn-5 {
@@ -146,12 +146,12 @@
   height: 160px;
   transition-duration: 0.5s;
   width: 160px;
-  margin: 0 auto;
+  margin: 58px auto 0;
 }
 
 .u-section-1 .u-text-8 {
   transition-duration: 0.5s;
-  margin: 11px 13px 0;
+  margin: 18px 13px 0;
 }
 
 .u-section-1 .u-btn-6 {
@@ -168,12 +168,12 @@
   height: 160px;
   transition-duration: 0.5s;
   width: 160px;
-  margin: 0 auto;
+  margin: 58px auto 0;
 }
 
 .u-section-1 .u-text-9 {
   transition-duration: 0.5s;
-  margin: 11px 13px 0;
+  margin: 18px 13px 0;
 }
 
 .u-section-1 .u-btn-7 {
@@ -190,12 +190,12 @@
   height: 160px;
   transition-duration: 0.5s;
   width: 160px;
-  margin: 0 auto;
+  margin: 58px auto 0;
 }
 
 .u-section-1 .u-text-10 {
   transition-duration: 0.5s;
-  margin: 11px 13px 0;
+  margin: 18px 13px 0;
 }
 
 .u-section-1 .u-btn-8 {
@@ -212,12 +212,12 @@
   height: 160px;
   transition-duration: 0.5s;
   width: 160px;
-  margin: 0 auto;
+  margin: 58px auto 0;
 }
 
 .u-section-1 .u-text-11 {
   transition-duration: 0.5s;
-  margin: 11px 13px 0;
+  margin: 18px 13px 0;
 }
 
 .u-section-1 .u-btn-9 {
@@ -234,12 +234,12 @@
   height: 160px;
   transition-duration: 0.5s;
   width: 160px;
-  margin: 0 auto;
+  margin: 58px auto 0;
 }
 
 .u-section-1 .u-text-12 {
   transition-duration: 0.5s;
-  margin: 11px 13px 0;
+  margin: 18px 13px 0;
 }
 
 .u-section-1 .u-btn-10 {
@@ -256,12 +256,12 @@
   height: 160px;
   transition-duration: 0.5s;
   width: 160px;
-  margin: 0 auto;
+  margin: 58px auto 0;
 }
 
 .u-section-1 .u-text-13 {
   transition-duration: 0.5s;
-  margin: 11px 13px 0;
+  margin: 18px 13px 0;
 }
 
 .u-section-1 .u-btn-11 {
@@ -278,15 +278,103 @@
   height: 160px;
   transition-duration: 0.5s;
   width: 160px;
-  margin: 0 auto;
+  margin: 58px auto 0;
 }
 
 .u-section-1 .u-text-14 {
   transition-duration: 0.5s;
-  margin: 11px 13px 0;
+  margin: 18px 13px 0;
 }
 
 .u-section-1 .u-btn-12 {
+  background-image: none;
+  border-style: solid solid dotted;
+  padding: 0;
+}
+
+.u-section-1 .u-container-layout-13 {
+  padding: 0;
+}
+
+.u-section-1 .u-image-14 {
+  height: 160px;
+  transition-duration: 0.5s;
+  width: 160px;
+  margin: 58px auto 0;
+}
+
+.u-section-1 .u-text-15 {
+  transition-duration: 0.5s;
+  margin: 18px 13px 0;
+}
+
+.u-section-1 .u-btn-13 {
+  background-image: none;
+  border-style: solid solid dotted;
+  padding: 0;
+}
+
+.u-section-1 .u-container-layout-14 {
+  padding: 0;
+}
+
+.u-section-1 .u-image-15 {
+  height: 160px;
+  transition-duration: 0.5s;
+  width: 160px;
+  margin: 58px auto 0;
+}
+
+.u-section-1 .u-text-16 {
+  transition-duration: 0.5s;
+  margin: 18px 13px 0;
+}
+
+.u-section-1 .u-btn-14 {
+  background-image: none;
+  border-style: solid solid dotted;
+  padding: 0;
+}
+
+.u-section-1 .u-container-layout-15 {
+  padding: 0;
+}
+
+.u-section-1 .u-image-16 {
+  height: 160px;
+  transition-duration: 0.5s;
+  width: 160px;
+  margin: 58px auto 0;
+}
+
+.u-section-1 .u-text-17 {
+  transition-duration: 0.5s;
+  margin: 18px 13px 0;
+}
+
+.u-section-1 .u-btn-15 {
+  background-image: none;
+  border-style: solid solid dotted;
+  padding: 0;
+}
+
+.u-section-1 .u-container-layout-16 {
+  padding: 0;
+}
+
+.u-section-1 .u-image-17 {
+  height: 160px;
+  transition-duration: 0.5s;
+  width: 160px;
+  margin: 58px auto 0;
+}
+
+.u-section-1 .u-text-18 {
+  transition-duration: 0.5s;
+  margin: 18px 13px 0;
+}
+
+.u-section-1 .u-btn-16 {
   background-image: none;
   border-style: solid solid dotted;
   padding: 0;
@@ -302,7 +390,7 @@
   }
 
   .u-section-1 .u-repeater-1 {
-    min-height: 486px;
+    min-height: 1140px;
   }
 
   .u-section-1 .u-image-2 {
@@ -496,6 +584,70 @@
   .u-section-1 .u-text-14 {
     margin-right: 0;
   }
+
+  .u-section-1 .u-image-14 {
+    --animation-custom_in-translate_x: -300px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
+    height: 132px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-15 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-15 {
+    --animation-custom_in-translate_x: -300px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
+    height: 132px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-16 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-16 {
+    --animation-custom_in-translate_x: -300px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
+    height: 132px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-17 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-17 {
+    --animation-custom_in-translate_x: -300px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
+    height: 132px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-18 {
+    margin-right: 0;
+  }
 }
 
 @media (max-width: 991px) {
@@ -509,7 +661,7 @@
 
   .u-section-1 .u-repeater-1 {
     grid-template-columns: 50% 50%;
-    min-height: 1091px;
+    min-height: 3493px;
   }
 
   .u-section-1 .u-image-2 {
@@ -590,6 +742,34 @@
   }
 
   .u-section-1 .u-image-13 {
+    height: 82px;
+    width: 240px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-image-14 {
+    height: 82px;
+    width: 240px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-image-15 {
+    height: 82px;
+    width: 240px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-image-16 {
+    height: 82px;
+    width: 240px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-image-17 {
     height: 82px;
     width: 240px;
     margin-left: auto;
@@ -804,5 +984,53 @@
 .u-section-1 .u-image-10,
 .u-section-1 .u-image-10:before,
 .u-section-1 .u-image-10 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-1 .u-image-14,
+.u-section-1 .u-image-14:before,
+.u-section-1 .u-image-14 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-1 .u-text-15,
+.u-section-1 .u-text-15:before,
+.u-section-1 .u-text-15 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-1 .u-image-15,
+.u-section-1 .u-image-15:before,
+.u-section-1 .u-image-15 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-1 .u-text-16,
+.u-section-1 .u-text-16:before,
+.u-section-1 .u-text-16 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-1 .u-image-16,
+.u-section-1 .u-image-16:before,
+.u-section-1 .u-image-16 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-1 .u-text-17,
+.u-section-1 .u-text-17:before,
+.u-section-1 .u-text-17 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-1 .u-image-17,
+.u-section-1 .u-image-17:before,
+.u-section-1 .u-image-17 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-1 .u-text-18,
+.u-section-1 .u-text-18:before,
+.u-section-1 .u-text-18 > .u-container-layout:before {
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
