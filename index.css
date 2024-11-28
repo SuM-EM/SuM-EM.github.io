@@ -243,6 +243,10 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 891px;
+  }
+
   .u-section-2 .u-text-1 {
     width: auto;
     margin-right: 321px;
@@ -255,36 +259,41 @@
 
   .u-section-2 .u-text-2 {
     width: auto;
-    margin-top: 20px;
+    margin-top: -279px;
     margin-right: 321px;
     margin-left: 54px;
   }
 
   .u-section-2 .u-text-3 {
-    margin-right: 181px;
+    width: auto;
+    margin-top: -1px;
+    margin-right: 209px;
+    margin-left: 55px;
   }
 
   .u-section-2 .u-text-4 {
     width: auto;
-    margin-right: 635px;
-    margin-left: 55px;
+    margin-top: 86px;
+    margin-right: 636px;
+    margin-left: 54px;
   }
 
   .u-section-2 .u-btn-3 {
     border-style: solid;
-    margin-top: 20px;
+    margin-top: -117px;
     margin-right: auto;
     margin-left: 54px;
   }
 
   .u-section-2 .u-btn-4 {
-    margin-top: 20px;
-    margin-left: 59px;
+    margin-top: 68px;
+    margin-left: 54px;
   }
 
   .u-section-2 .u-list-1 {
     width: 418px;
-    margin-left: 59px;
+    margin-top: 9px;
+    margin-left: 52px;
   }
 
   .u-section-2 .u-repeater-1 {
@@ -293,14 +302,13 @@
 
   .u-section-2 .u-text-5 {
     width: auto;
-    margin-left: 54px;
-    margin-right: 54px;
+    margin: 39px 54px 20px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 936px;
+    min-height: 966px;
   }
 
   .u-section-2 .u-text-1 {
@@ -313,35 +321,31 @@
   }
 
   .u-section-2 .u-text-2 {
-    margin-top: -283px;
     margin-right: 329px;
     margin-left: 0;
   }
 
   .u-section-2 .u-text-3 {
-    width: auto;
     margin-right: 371px;
     margin-left: 0;
   }
 
   .u-section-2 .u-text-4 {
-    margin-top: 86px;
     margin-right: 470px;
     margin-left: 0;
   }
 
   .u-section-2 .u-btn-3 {
-    margin-top: -113px;
     margin-left: 0;
   }
 
   .u-section-2 .u-btn-4 {
-    margin-top: 67px;
     margin-left: 0;
   }
 
   .u-section-2 .u-list-1 {
     width: 366px;
+    margin-top: 10px;
     margin-left: 0;
   }
 
@@ -366,18 +370,24 @@
   }
 
   .u-section-2 .u-text-5 {
-    margin: 20px 0 11px;
+    margin-top: 38px;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
 @media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1070px;
+  }
+
   .u-section-2 .u-text-1 {
     margin-right: 139px;
   }
 
   .u-section-2 .u-image-1 {
-    width: 139px;
-    height: 177px;
+    width: 149px;
+    height: 192px;
   }
 
   .u-section-2 .u-text-2 {
@@ -385,20 +395,11 @@
   }
 
   .u-section-2 .u-text-3 {
-    margin-right: 191px;
-    margin-left: 83px;
+    margin-right: 149px;
   }
 
   .u-section-2 .u-text-4 {
     margin-right: 290px;
-  }
-
-  .u-section-2 .u-btn-3 {
-    margin-top: 20px;
-  }
-
-  .u-section-2 .u-btn-4 {
-    margin-top: 20px;
   }
 
   .u-section-2 .u-list-1 {
@@ -432,7 +433,7 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1651px;
+    min-height: 1596px;
   }
 
   .u-section-2 .u-text-1 {
@@ -447,24 +448,19 @@
   }
 
   .u-section-2 .u-text-2 {
-    margin-top: 20px;
     margin-right: 0;
   }
 
   .u-section-2 .u-text-3 {
-    margin-top: 0;
-    margin-left: 0;
     margin-right: 0;
   }
 
   .u-section-2 .u-text-4 {
     font-size: 1.875rem;
-    margin-top: 0;
     margin-right: 0;
   }
 
   .u-section-2 .u-btn-3 {
-    margin-top: 17px;
     margin-left: auto;
   }
 
@@ -473,7 +469,6 @@
   }
 
   .u-section-2 .u-list-1 {
-    margin-top: 10px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -501,11 +496,6 @@
 
   .u-section-2 .u-icon-7 {
     margin-left: -5px;
-  }
-
-  .u-section-2 .u-text-5 {
-    margin-top: 32px;
-    margin-bottom: 20px;
   }
 }.u-section-3 .u-sheet-1 {
   min-height: 986px;
@@ -743,7 +733,7 @@
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 1620px;
+    min-height: 1634px;
   }
 
   .u-section-3 .u-group-1 {
@@ -794,7 +784,7 @@
   .u-section-3 .u-image-1 {
     width: 418px;
     height: 191px;
-    margin: -3px -39px 0;
+    margin: -3px -39px 14px;
   }
 }.u-section-4 .u-sheet-1 {
   min-height: 1025px;
