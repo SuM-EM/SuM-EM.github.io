@@ -6,147 +6,136 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-
+<!-- Internal Website Pages -->
 <url>
   <loc>https://sum-em.github.io/</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
+  <lastmod>2025-01-21T19:38:41+00:00</lastmod>
+  <changefreq>daily</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://sum-em.github.io/Research.html</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
+  <lastmod>2025-01-21T19:38:41+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+
+<!-- Hosted research papers -->
+<url>
+  <loc>https://sum-em.github.io/files/CV_SM_2024.pdf</loc>
+  <lastmod>2025-01-21T19:38:41+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://sum-em.github.io/Blog.html</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
+  <loc>https://sum-em.github.io/files/2406.17976v1.pdf</loc>
+  <lastmod>2025-01-21T19:38:41+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://sum-em.github.io/files/SM_Curriculum_Vitae.pdf</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sum-em.github.io/files/TPWRS2023ERER.pdf</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sum-em.github.io/files/TSG2018ERER.pdf</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sum-em.github.io/files/TPWRS2019ERER.pdf</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sum-em.github.io/files/GTD2016ERER.pdf</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sum-em.github.io/files/TENSYMP2019ERER.pdf</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sum-em.github.io/files/CAM2022ERER.pdf</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sum-em.github.io/files/SGEB2022ERER.pdf</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sum-em.github.io/files/SGEB-2-2022ERER.pdf</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sum-em.github.io/files/EPSR2023EPQ.pdf</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
+  <loc>https://sum-em.github.io/files/LFL_SARIMA_HICCS_revised_2024.pdf</loc>
+  <lastmod>2025-01-21T19:38:41+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sum-em.github.io/files/TPWRD2021WPQ.pdf</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
+  <lastmod>2025-01-21T19:38:41+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://sum-em.github.io/files/TPWRS2019PQE.pdf</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
+  <loc>https://sum-em.github.io/files/TPWRS2023ERER.pdf</loc>
+  <lastmod>2025-01-21T19:38:41+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://sum-em.github.io/files/PowerTech2021PQE.pdf</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sum-em.github.io/files/PowerCON2016PQE.pdf</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sum-em.github.io/files/EPSR-VoltageControlEp2022.pdf</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sum-em.github.io/files/RSER2022DVC.pdf</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sum-em.github.io/files/NAPS2022DVC.pdf</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sum-em.github.io/files/PEDES2022DVC.pdf</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sum-em.github.io/files/MSCPES2022DVC.pdf</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
+  <loc>https://sum-em.github.io/files/TSG2018ERER.pdf</loc>
+  <lastmod>2025-01-21T19:38:41+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sum-em.github.io/files/Access2022RPS.pdf</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
+  <lastmod>2025-01-21T19:38:41+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sum-em.github.io/files/arxiv2021RPS.pdf</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2025-01-21T19:38:41+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sum-em.github.io/files/IECON_2024_paper2.pdf</loc>
+  <lastmod>2025-01-21T19:38:41+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sum-em.github.io/files/Access2023DVC.pdf</loc>
+  <lastmod>2025-01-21T19:38:41+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://sum-em.github.io/files/EPSR2022PSR.pdf</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2025-01-21T19:38:41+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sum-em.github.io/files/MSCPES2022DVC.pdf</loc>
+  <lastmod>2025-01-21T19:38:41+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sum-em.github.io/files/TPWRS2019ERER.pdf</loc>
+  <lastmod>2025-01-21T19:38:41+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://sum-em.github.io/files/IETRPG2017TEP.pdf</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2025-01-21T19:38:41+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://sum-em.github.io/files/NPSC2014TEP.pdf</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sum-em.github.io/ResearchTools.html</loc>
-  <lastmod>2023-03-19T03:27:15+00:00</lastmod>
+  <loc>https://sum-em.github.io/files/GTD2016ERER.pdf</loc>
+  <lastmod>2025-01-21T19:38:41+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.64</priority>
 </url>
 
-
+<!-- External Profiles -->
+<url>
+	<loc>https://www.linkedin.com/in/subirmajumder91/</loc>
+	<lastmod>2025-01-20</lastmod>
+	<changefreq>weekly</changefreq>
+	<priority>0.7</priority>
+</url>
+<url>
+	<loc>https://orcid.org/0000-0003-0237-8376</loc>
+	<lastmod>2025-01-20</lastmod>
+	<changefreq>weekly</changefreq>
+	<priority>0.7</priority>
+</url>
+<url>
+	<loc>https://www.wikidata.org/wiki/Q131841349</loc>
+	<lastmod>2025-01-20</lastmod>
+	<changefreq>weekly</changefreq>
+	<priority>0.7</priority>
+</url>
+<url>
+	<loc>https://www.researchgate.net/profile/Subir-Majumder-2</loc>
+	<lastmod>2025-01-20</lastmod>
+	<changefreq>weekly</changefreq>
+	<priority>0.7</priority>
+</url>
+  
 </urlset>
