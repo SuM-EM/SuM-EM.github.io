@@ -3,3 +3,4 @@ Disallow: /files/IITB-Report1.pdf
 Disallow: /files/UoW-Report.pdf
 Disallow: /files/SM_Curriculum_Vitae.pdf
 Disallow: /Preprints.html
+Disallow: /files/
